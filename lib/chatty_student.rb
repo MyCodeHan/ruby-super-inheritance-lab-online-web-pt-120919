@@ -18,4 +18,3 @@ class ChattyStudent < Student
     super
   end
 end
-© 2020 GitHub, Inc.
