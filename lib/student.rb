@@ -8,4 +8,3 @@ class Student
    puts "Pick me!"
   end
 end
-© 2020 GitHub, Inc.
